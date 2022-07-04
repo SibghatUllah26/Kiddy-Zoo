@@ -19,15 +19,25 @@ h1 {
 }
 h2{
   font-family: 'Lobster', cursive;
+  font-weight: 700;
   text-shadow: 1px 0 #232931;
   font-size: 2rem;
   color: #B05B3B;
 }
+.container{
+  padding: 3% 0;
+}
 
-p {
-  font-size: 2rem;
-  color: #F87474;
-  font-family: 'Indie Flower', cursive;
+.container h2:nth-child(2) {
+  display: none;
+}
+@media (max-width : 800px) {
+  .container h2:nth-child(1) {
+  display: none;
+}
+.container h2:nth-child(2) {
+  display: block;
+}
 }
 footer {
   color: black;
