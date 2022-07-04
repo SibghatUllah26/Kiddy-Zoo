@@ -1,0 +1,186 @@
+.container-fluid {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+body {
+  background-color: #E9EFC0;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #A64B2A;
+}
+h2{
+  font-family: 'Lobster', cursive;
+  text-shadow: 1px 0 #232931;
+  font-size: 2rem;
+  color: #B05B3B;
+}
+
+p {
+  font-size: 2rem;
+  color: #F87474;
+  font-family: 'Indie Flower', cursive;
+}
+footer {
+  color: black;
+  text-align: center;
+  font-family: sans-serif;
+  margin: 2% auto;
+  padding: 5% auto;
+}
+
+.animal {
+  outline: none;
+  border: 10px solid #8E3200;
+  font-size: 0;
+  font-family: 'Arvo', cursive;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #DA0463;
+  border-radius: 90px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: auto;
+  background-color: white;
+}
+.bear {
+  background-image: url("media/bear.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.cat{
+  background-image: url("media/cat.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.cock {
+  background-image: url("media/cock.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.cow {
+  background-image: url("media/cow.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.deer{
+  background-image: url("media/dog.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.dog {
+  background-image: url("media/dog.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.duck {
+  background-image: url("media/duck.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.elephant{
+  background-image: url("media/elephant.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.fox{
+  background-image: url("media/fox.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.goat {
+  background-image: url("media/goat.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.horse{
+  background-image: url("media/horse.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.lion {
+  background-image: url("media/lion.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.monkey{
+  background-image: url("media/monkey.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.rabbit {
+  background-image: url("media/rabbit.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.rhino {
+  background-image: url("media/rhino.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.sheep {
+  background-image: url("media/sheep.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.tiger {
+  background-image: url("media/tiger.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+.wolf {
+  background-image: url("media/wolf.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #E9EFC0;
+}
+
+
+/* .col{
+padding: 0 2%;
+} */
